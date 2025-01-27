@@ -3,7 +3,7 @@
 //|                                   Copyright 2025, brunnooliveira |
 //|                                https://github.com/brunnooliveira |
 //+------------------------------------------------------------------+
-#property copyright   "Copyright 2025, rpanchyk"
+#property copyright   "Copyright 2025, brunnooliveira"
 #property link        "https://github.com/brunnooliveira"
 #property version     "1.00"
 #property description "Indicator shows bar with close price near high or low price"
